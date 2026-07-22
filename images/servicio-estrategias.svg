@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 300">
+  <defs>
+    <linearGradient id="bgEstrategias" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EF9330"/>
+      <stop offset="1" stop-color="#C96712"/>
+    </linearGradient>
+  </defs>
+  <rect width="460" height="300" rx="28" fill="url(#bgEstrategias)"/>
+  <g opacity="0.9">
+    <rect x="150" y="175" width="30" height="55" rx="6" fill="#ffffff" opacity="0.55"/>
+    <rect x="195" y="150" width="30" height="80" rx="6" fill="#ffffff" opacity="0.7"/>
+    <rect x="240" y="120" width="30" height="110" rx="6" fill="#ffffff" opacity="0.85"/>
+    <rect x="285" y="95" width="30" height="135" rx="6" fill="#ffffff"/>
+  </g>
+  <path d="M150 175 L195 140 L240 155 L315 80" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M285 80 L318 78 L320 111" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
